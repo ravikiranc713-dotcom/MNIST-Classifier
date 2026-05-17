@@ -1,4 +1,4 @@
-# 🧠 MNIST Digit Classification using TensorFlow/Keras
+#  MNIST Digit Classification using TensorFlow/Keras
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
@@ -10,13 +10,13 @@ A simple yet effective deep learning project that classifies handwritten digits 
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This project demonstrates how to build, train, and evaluate a neural network on the MNIST dataset. It also includes visualization of predictions and misclassified examples for model interpretability.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 * **Dataset:** MNIST Handwritten Digits
 * **Training Samples:** 60,000
@@ -25,7 +25,7 @@ This project demonstrates how to build, train, and evaluate a neural network on 
 
 ---
 
-## 🏗️ Model Architecture
+##  Model Architecture
 
 A simple feedforward neural network:
 
@@ -36,7 +36,7 @@ A simple feedforward neural network:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * Python
 * TensorFlow / Keras
@@ -45,7 +45,7 @@ A simple feedforward neural network:
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 Run the training script:
 
@@ -55,7 +55,7 @@ python train.py
 
 ---
 
-## 📈 Training Details
+##  Training Details
 
 * Optimizer: Adam
 * Loss Function: Sparse Categorical Crossentropy
@@ -64,26 +64,26 @@ python train.py
 
 ---
 
-## ✅ Results
+##  Results
 
 * Achieves ~97–98% accuracy on the test dataset
 * Efficient training with low computational cost
 
 ---
 
-## 🔍 Visualizations
+##  Visualizations
 
-### 🧾 Sample Predictions
+###  Sample Predictions
 
 Displays model predictions vs actual labels for training data.
 
-### ❌ Misclassified Examples
+###  Misclassified Examples
 
 Highlights incorrect predictions to analyze model weaknesses.
 
 ---
 
-## 📌 Key Learnings
+##  Key Learnings
 
 * Data preprocessing (normalization, reshaping)
 * Building neural networks with Keras
@@ -92,7 +92,7 @@ Highlights incorrect predictions to analyze model weaknesses.
 
 ---
 
-## 🔧 Future Improvements
+##  Future Improvements
 
 * Add Convolutional Neural Networks (CNNs)
 * Hyperparameter tuning
@@ -102,14 +102,14 @@ Highlights incorrect predictions to analyze model weaknesses.
 
 ---
 
-## ⭐ Acknowledgements
+##  Acknowledgements
 
 * TensorFlow/Keras documentation
 * MNIST dataset creators
 
 ---
 
-## 💡 Note
+##  Note
 
 This project is a foundational deep learning implementation and serves as a stepping stone toward more advanced architectures like CNNs and transformer-based vision models.
 
